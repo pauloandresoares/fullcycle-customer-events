@@ -1,6 +1,6 @@
 # Desafio customer events
 
-## Desafio: 
+## Desafio 
 
 Agora que você já possui a base sobre Domain Events, implemente dois Eventos de Domínio para o agregado de Customer.
 
@@ -16,3 +16,8 @@ Agora que você já possui a base sobre Domain Events, implemente dois Eventos d
 > Todos os testes devem ser realizados para garantir o bom funcionamento dos eventos.
 
 Boa sorte.
+
+
+## Execução do teste
+
+![Test](./test.png)
